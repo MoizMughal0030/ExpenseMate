@@ -5,9 +5,9 @@
   "description": "ExpenseMate — Personal Expense Manager (Backend & Database Layer)",
   "private": true,
   "scripts": {
-    "dev": "next dev -p 3000",
+    "dev": "next dev -p 3003",
     "build": "next build",
-    "start": "next start -p 3000",
+    "start": "next start -p 3003",
     "test": "node test/run-tests.js"
   },
   "dependencies": {
